@@ -149,3 +149,8 @@ Gauri Singh
 📜 License
 
 This project is open for learning and demonstration purposes.
+
+📌 Live Demo: https://your-vercel-link.vercel.app
+📌 GitHub Repo: https://github.com/USERNAME/bytelearn-website
+📦 Downloadable ZIP included in submission.
+
